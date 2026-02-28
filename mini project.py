@@ -1,7 +1,0 @@
-#Emoji Converter - Basic version (No if,no loop)
-msg=input("enter your msg :")
-msg=msg.replace(":)","😊")
-msg=msg.replace(":(","☹️")
-msg=msg.replace(":D","😃")
-msg=msg.replace(";)","😉")
-print(msg)
